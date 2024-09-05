@@ -21,9 +21,3 @@ This Java project implements mathematical structures for matrices and rings, wit
 - **Polynomial Support**: An implementation of polynomial structures within the ring package, enabling polynomial-based computations.
 
 - **Full Test Coverage**: JUnit tests provide complete code and branch coverage, ensuring reliability and correctness of the implemented algorithms.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Mathematical-Rings-and-Matrices.git
